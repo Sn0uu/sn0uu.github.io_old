@@ -1,2 +1,2 @@
-# Sn0uu.github.io
+# sn0uu.github.io
 Snow's io page for Twitch and such
